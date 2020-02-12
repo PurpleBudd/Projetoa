@@ -1,0 +1,25 @@
+
+package Pessoa;
+
+public class Funcionario extends Principal{
+    private int Matricula;
+    private String Senha;
+
+    public int getMatricula() {
+        return Matricula;
+    }
+
+    public void setMatricula(int Matricula) {
+        this.Matricula = Matricula;
+    }
+
+    public String getSenha() {
+        return Senha;
+    }
+
+    public void setSenha(String Senha) {
+        this.Senha = Senha;
+    }
+    
+    
+}
