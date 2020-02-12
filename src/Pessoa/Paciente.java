@@ -1,7 +1,7 @@
 
 package Pessoa;
 
-public class Paciente extends Principal{
+public class Paciente extends Pessoa{
   private int CodPaciente;
   private String senha;
 

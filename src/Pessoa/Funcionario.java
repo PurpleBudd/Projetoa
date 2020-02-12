@@ -1,7 +1,7 @@
 
 package Pessoa;
 
-public class Funcionario extends Principal{
+public class Funcionario extends Pessoa{
     private int Matricula;
     private String Senha;
 

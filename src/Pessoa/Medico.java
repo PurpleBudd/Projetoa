@@ -1,7 +1,7 @@
 
 package Pessoa;
 
-public class Medico {
+public class Medico extends Funcionario{
     private String CRM;
     private String Especialidade;
 
